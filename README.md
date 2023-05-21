@@ -1,5 +1,7 @@
 # DLAI ChatGPT Prompt Course Notes
 
+[中文版](./README_zh.md)
+
 This repository contains the Jupyter Notebook notes for the DLAI ChatGPT Prompt course, which have been converted to MHTML format.s
 
 Course Link: [https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
